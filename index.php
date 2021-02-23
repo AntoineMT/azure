@@ -2,6 +2,9 @@
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <link rel="stylesheet" type="text/css" src="styles.css">
+<style>
+<?php include 'styles.css'; ?>
+</style>
 <!------ Include the above in your HEAD tag ---------->
 
 <div class="container login-container">
